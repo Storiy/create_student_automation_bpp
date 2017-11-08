@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bpp_domain" />
+        <module name="bpp_framework" />
+        <module name="bpp_page_objects" />
+        <module name="bpp_regression_tests" />
+        <module name="createstudentpageobjects" />
+        <module name="createstudentregressiontests" />
+        <module name="salesforce_domain" />
+        <module name="salesforce_framework" />
+        <module name="salesforce_page_objects" />
+        <module name="salesforce_regression_tests" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bpp_domain" target="1.5" />
+      <module name="bpp_framework" target="1.5" />
+      <module name="bpp_page_objects" target="1.5" />
+      <module name="bpp_regression_tests" target="1.5" />
+      <module name="create_student_automation_bpp" target="1.5" />
+      <module name="createstudentframeworkbpp" target="1.5" />
+      <module name="createstudentpageobjects" target="1.5" />
+      <module name="createstudentregressiontests" target="1.5" />
+      <module name="salesforce_automation" target="1.5" />
+      <module name="salesforce_domain" target="1.5" />
+      <module name="salesforce_framework" target="1.5" />
+      <module name="salesforce_page_objects" target="1.5" />
+      <module name="salesforce_regression_tests" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

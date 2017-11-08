@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/salesforce_automation.iml" filepath="$PROJECT_DIR$/salesforce_automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bpp_domain/salesforce_domain.iml" filepath="$PROJECT_DIR$/bpp_domain/salesforce_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bpp_framework/salesforce_framework.iml" filepath="$PROJECT_DIR$/bpp_framework/salesforce_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bpp_page_objects/salesforce_page_objects.iml" filepath="$PROJECT_DIR$/bpp_page_objects/salesforce_page_objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bpp_regression_tests/salesforce_regression_tests.iml" filepath="$PROJECT_DIR$/bpp_regression_tests/salesforce_regression_tests.iml" />
+    </modules>
+  </component>
+</project>
